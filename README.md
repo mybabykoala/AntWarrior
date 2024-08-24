@@ -1,5 +1,5 @@
 
-![In A Vibrant Alien World, Magical Creatures Stand ](https://github.com/user-attachments/assets/7da8f982-b5de-4409-b952-002e038b208f alt="Game Screenshot" width="600" />)
+![In A Vibrant Alien World, Magical Creatures Stand ](https://github.com/user-attachments/assets/7da8f982-b5de-4409-b952-002e038b208f)
 
 
 # AntWarrior
