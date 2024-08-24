@@ -1,5 +1,4 @@
 
-![The Image Depicts A Whimsical Forest Scene With Ta](https://github.com/user-attachments/assets/6fc5a08f-e351-4170-b164-f07df3e4ee5d)
 <img src="https://github.com/user-attachments/assets/6fc5a08f-e351-4170-b164-f07df3e4ee5d" alt="Game Screenshot" width="500" />
 
 
